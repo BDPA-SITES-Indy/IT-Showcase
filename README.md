@@ -1,1 +1,1 @@
-# IT-Showcase
+# IT Showcase
